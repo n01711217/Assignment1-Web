@@ -1,0 +1,44 @@
+/* Home Page Styles */
+
+body {
+    background-color: #f0f8ff; /* Light Blue Background */
+    color: #333333; /* Dark Text Color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4682b4; /* Steel Blue */
+    color: #ffffff; /* White Text */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #5f9ea0; /* Cadet Blue */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #ffffff; /* White Text */
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #4682b4; /* Steel Blue */
+    color: #ffffff; /* White Text */
+    padding: 10px;
+    text-align: center;
+  }
+  
